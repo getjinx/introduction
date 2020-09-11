@@ -1,0 +1,23 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "322957",
+      "name": "user",
+      "font_class": "40one",
+      "unicode": "e66a",
+      "unicode_decimal": 58986
+    },
+    {
+      "icon_id": "9566250",
+      "name": "shut-down-line",
+      "font_class": "shut-down-line",
+      "unicode": "e874",
+      "unicode_decimal": 59508
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="40one" unicode="&#58986;" d="M494.4 337.6c115.2 0 208 92.8 208 208 0 115.2-92.8 208-208 208-113.6 0-208-92.8-208-208C286.4 430.4 379.2 337.6 494.4 337.6zM496 310.4C150.4 315.2 171.2-8 171.2-8L816-8C816-8 820.8 305.6 496 310.4z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="shut-down-line" unicode="&#59508;" d="M267.306667 733.568l48.938666-69.930667a341.333333 341.333333 0 1 1 391.509334 0l48.938666 69.930667A426.154667 426.154667 0 0 0 938.666667 384c0-235.648-191.018667-426.666667-426.666667-426.666667S85.333333 148.352 85.333333 384a426.154667 426.154667 0 0 0 181.973334 349.568zM469.333333 384V810.666667h85.333334v-426.666667h-85.333334z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>
